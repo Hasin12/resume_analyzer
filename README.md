@@ -24,12 +24,11 @@ resume-analyzer/
 │   └── sample_resume.pdf  # Your resume file here
 └── README.md
 # How to Run
+
 1. Add Resume
 2. Place your .pdf or .docx resume in the resumes/ folder.
-
 3. Add Keywords
 4. Populate keywords.txt with one keyword per line.
-
 5. Update File Path
 6. In analyzer.py, set the resume file path:
 
