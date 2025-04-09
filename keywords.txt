@@ -1,0 +1,11 @@
+machine learning
+artificial intelligence
+data science
+python
+deep learning
+natural language processing
+computer vision
+big data
+statistics
+modeling
+analytics
