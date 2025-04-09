@@ -24,7 +24,7 @@ def extract_text_from_pdf(path):
 # Resume analyzer
 def analyze_resume(text):
     text_lower = text.lower()
-    
+    , 
     score = sum(1 for kw in keywords if kw in text_lower)
 
     print(f"\n✅ Matched {score} out of {len(keywords)} keywords:\n")
