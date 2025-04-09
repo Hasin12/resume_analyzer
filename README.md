@@ -15,7 +15,7 @@ A simple Python script that analyzes resumes (`.pdf` or `.docx`) by checking for
 Make sure you have Python 3 installed and then install the required packages:
 
 ```bash
-pip install python-docx PyMuPDF
+pip install python-docx PyMuPDF ```
 # Project Structure
 resume-analyzer/
 ├── analyzer.py          # Main script
